@@ -2,7 +2,7 @@
 
 ## Thách thức
 1. Coding Challenge #1
-![exp1](image.png)
+![alt text](image-4.png)
 
 2. Coding Challenge #2
 ![alt text](image-1.png)
@@ -14,7 +14,11 @@
 ![alt text](image-3.png)
 
 5. Coding Challenge #5
-![alt text](image-4.png)
+![alt text](image.png)
 
 6. Coding Challenge #6
 ![alt text](image-5.png)
+
+7. Coding Challenge #7
+![alt text](image-6.png)
+
