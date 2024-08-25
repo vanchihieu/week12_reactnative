@@ -11,3 +11,6 @@ JavaScript Fundamentals – Part 1
 
 #Coding Challenge #4
 ![alt text](image-3.png)
+
+#Coding Challenge #5
+![alt text](image-4.png)
