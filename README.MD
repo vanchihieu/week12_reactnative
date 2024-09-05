@@ -49,3 +49,10 @@
 
 2. **Coding Challenge #2**
 ![image](https://github.com/user-attachments/assets/ceab8996-3852-4e2c-a2eb-69e2b388e5dc)
+
+# Working With Arrays
+
+## Challenge
+
+1. **Coding Challenge #1**
+![image](https://github.com/user-attachments/assets/fe116044-d100-42db-bf07-9a1fb1c7b600)
