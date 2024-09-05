@@ -35,3 +35,7 @@
 
 2. **Coding Challenge #2**
 ![image](https://github.com/user-attachments/assets/ea620dae-bb9e-4280-941c-4a0ae215b3d8)
+
+3. **Coding Challenge #3**
+![image](https://github.com/user-attachments/assets/5edfb952-d260-4b05-8204-ce3d0a35eaa6)
+

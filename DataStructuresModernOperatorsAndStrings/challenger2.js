@@ -1,3 +1,8 @@
+/**
+ * Let's continue with our football betting app! Keep using the 'game' variable from 
+before.
+ */
+
 const game = {
   teams: ["Bayern Munich", "Borrusia Dortmund"],
   players: [
