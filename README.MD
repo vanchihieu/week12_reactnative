@@ -42,3 +42,10 @@
 4. **Coding Challenge #4**
 ![image](https://github.com/user-attachments/assets/f136c10b-3e6e-42e4-8915-8066b2f3ac75)
 
+
+# A Closer Look at Functions
+
+## Challenge
+
+2. **Coding Challenge #2**
+![image](https://github.com/user-attachments/assets/ceab8996-3852-4e2c-a2eb-69e2b388e5dc)
