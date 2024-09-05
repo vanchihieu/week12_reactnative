@@ -1,3 +1,8 @@
+/**
+Let's go back to Julia and Kate's study about dogs. This time, they want to convert 
+dog ages to human ages and calculate the average age of the dogs in their study
+ */
+
 // Function to calculate average human age
 function calcAverageHumanAge(ages) {
   // Convert dog ages to human ages

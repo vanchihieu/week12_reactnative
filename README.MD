@@ -60,3 +60,6 @@
 2. **Coding Challenge #2**
 ![image](https://github.com/user-attachments/assets/d2f11268-2c72-444d-9c48-5ee13a11faed)
 
+3. **Coding Challenge #3**
+![image](https://github.com/user-attachments/assets/32a973e8-f76d-43b8-8b10-1d53d3ecd85b)
+
