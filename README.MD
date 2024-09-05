@@ -25,3 +25,10 @@
 
 8. **Coding Challenge #8**
    ![image](https://github.com/user-attachments/assets/486250bb-fd95-4e42-a01f-cf30989525b9)
+
+# Data Structures, Modern Operators and Strings
+
+## Challenge
+
+1. **Coding Challenge #1**
+![image](https://github.com/user-attachments/assets/7b315fed-2c37-4fc3-a6c1-0807eecbfa98)
