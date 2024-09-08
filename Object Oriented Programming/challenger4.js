@@ -32,7 +32,7 @@ class EVCl extends CarCl {
   set charge(newCharge) {
     this.#charge = newCharge;
   }
-  
+
   // Override the accelerate method to include charge decrease
   accelerate() {
     if (this.#charge > 0) {
@@ -59,8 +59,4 @@ class EVCl extends CarCl {
 
 const rivian = new EVCl("Rivian", 120, 23);
 
-rivian.accelerate()
-.accelerate()
-.chargeBattery(90)
-.brake()
-.accelerate();
+rivian.accelerate().accelerate().chargeBattery(90).brake().accelerate();
