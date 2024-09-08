@@ -80,3 +80,6 @@
 
 2. **Coding Challenge #2**
 ![image](https://github.com/user-attachments/assets/64ca485c-2e7e-49ab-8a57-092245af8916)
+
+3. **Coding Challenge #3**
+![image](https://github.com/user-attachments/assets/36320ff3-3cbe-4e06-a679-c12f29df8cbd)
