@@ -70,3 +70,10 @@
 ![image](https://github.com/user-attachments/assets/eb97de16-cf28-4bc7-bca0-71eefde62d50)
 ![image](https://github.com/user-attachments/assets/4f7075e3-b4ed-43ce-b1c5-6bec65b42bcb)
 ![image](https://github.com/user-attachments/assets/aa8c7586-9ff1-468a-8877-dd29506749a7)
+
+# Object Oriented Programming (OOP) 
+
+## Challenge
+
+1. **Coding Challenge #1**
+![image](https://github.com/user-attachments/assets/dbf01ea8-4565-4768-91f8-0ff023d897fd)
