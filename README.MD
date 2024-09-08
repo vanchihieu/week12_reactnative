@@ -77,3 +77,6 @@
 
 1. **Coding Challenge #1**
 ![image](https://github.com/user-attachments/assets/dbf01ea8-4565-4768-91f8-0ff023d897fd)
+
+2. **Coding Challenge #2**
+![image](https://github.com/user-attachments/assets/64ca485c-2e7e-49ab-8a57-092245af8916)
