@@ -83,3 +83,6 @@
 
 3. **Coding Challenge #3**
 ![image](https://github.com/user-attachments/assets/36320ff3-3cbe-4e06-a679-c12f29df8cbd)
+
+4. **Coding Challenge #4**
+![image](https://github.com/user-attachments/assets/7b21bb06-6dbb-4006-8168-46c68b3d7b09)
