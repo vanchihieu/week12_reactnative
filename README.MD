@@ -93,4 +93,7 @@
 ## Challenge
 
 1. **Coding Challenge #1**
-![image](https://github.com/user-attachments/assets/b9afe235-aa48-4f5d-aa22-6a60ecf5d0ba)
+![image](https://github.com/user-attachments/assets/ff32b68b-85a1-4d4c-b4db-e51486b19b7d)
+
+2. **Coding Challenge #2**
+![image](https://github.com/user-attachments/assets/0a886013-71ca-4ad0-8a84-376509f9a6bb)
